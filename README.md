@@ -1,13 +1,5 @@
 # Welcome to the SRE Labs using Azure Cloud Platform
 
-## Class links
-
-Each delivery has its own credentials sheet — open the one for **your** class (date and instructor).
-
-<!-- iis-class-links:start -->
-- **Azure SRE (10/28, Bushey)**: [class sheet](https://docs.google.com/spreadsheets/d/1LfLpCVzz0hMss366yPXmqqkOr_YVHAi9d5b34MAuJRA/edit)   <!-- cohort:azure-sre-2026-oct28-bushey -->
-<!-- iis-class-links:end -->
-
 ## Labs Index
 
 Click on a lab to view detailed instructions:
